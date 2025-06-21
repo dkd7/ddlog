@@ -1,0 +1,8 @@
+com\loganalyzer\Main.class
+com\loganalyzer\parser\DefaultLogParser.class
+com\loganalyzer\analysis\CountByLogLevelStrategy.class
+com\loganalyzer\analysis\UniqueErrorMessagesStrategy.class
+com\loganalyzer\analysis\LogAnalysisStrategy.class
+com\loganalyzer\parser\LogParser.class
+com\loganalyzer\analysis\MostFrequentErrorMessageStrategy.class
+com\loganalyzer\model\LogEntry.class

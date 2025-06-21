@@ -1,0 +1,4 @@
+[2025-04-29T15:06:00.100Z] [INFO] [main] [com.example.InitService] - Initialization started.
+[2025-04-29T15:06:01.200Z] [ERROR] [main] [com.example.InitService] - Missing configuration: database.url
+[2025-04-29T15:06:02.300Z] [DEBUG] [main] [com.example.InitService] - Retrying with default configuration.
+[2025-04-29T15:06:03.400Z] [INFO] [main] [com.example.InitService] - Initialization complete.

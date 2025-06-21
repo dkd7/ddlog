@@ -1,0 +1,6 @@
+[2025-04-29T15:05:45.123Z] [INFO] [main] [com.example.App] - Application starting...
+[2025-04-29T15:05:46.010Z] [WARN] [thread-pool-1] [com.example.service.DataService] - Connection pool nearing capacity. Used: 8/10
+[2025-04-29T15:05:47.500Z] [ERROR] [thread-pool-2] [com.example.service.PaymentService] - Payment failed for transaction ID: tx_123abc. Reason: Insufficient funds.
+[2025-04-29T15:05:47.505Z] [DEBUG] [thread-pool-2] [com.example.service.PaymentService] - User balance check: 5.00, Required: 10.00
+[2025-04-29T15:05:48.100Z] [ERROR] [thread-pool-1] [com.example.service.InventoryService] - Failed to reserve stock for item: SKU-XYZ. Reason: Item out of stock.
+[2025-04-29T15:05:49.200Z] [ERROR] [thread-pool-2] [com.example.service.PaymentService] - Payment failed for transaction ID: tx_456def. Reason: Insufficient funds.
